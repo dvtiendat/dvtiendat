@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tien Dat</h1>
 <h3 align="center">AI Engineer wannabe</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/EllipticalCostlyChrysomelid-size_restricted.gif">
-🌱 I’m currently learning **Machine Learning & Neural Networks**
+🌱 I’m currently learning Machine Learning & Neural Networks
 
 📫 How to reach me **dvtiendat.work@gmail.com**
 
