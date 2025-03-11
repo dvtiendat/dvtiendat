@@ -1,5 +1,5 @@
 <h1 align="left">👋Hi, I'm Tien Dat</h1>
-<h3 align="left">Sophomore in Data Science and AI @ HUST</h3>
+<h3 align="left">Junior in Data Science and AI @ HUST</h3>
 
 📫 How to reach me **dvtiendat.work@gmail.com**
 
